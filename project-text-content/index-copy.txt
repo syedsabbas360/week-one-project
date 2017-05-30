@@ -1,0 +1,16 @@
+<html>
+  <body class="all-body">
+    <h1>Bent Creek Ceramics</h1>
+    <h2>Where art meets nature</h2>
+      <ul class="mainpage-list">
+        <li>Endless Possibilities</li>
+        <li>Sets</li>
+        <li>Textures</li>
+        <li>Tea Time</li>
+        <li>Jars and Containers</li>
+        <li>Wasabi and Saki</li>
+        <li>Sippin' on Sunshine</li>
+      </ul>
+  </body>
+    <footer>Copyright 2017, Bent Creek Ceramics</footer>
+</html>
