@@ -1,0 +1,32 @@
+body #about-nav{
+  background: white;
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+ul.nav-options{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  color:black;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+div.main-nav{
+  width: 60%;
+  padding-right: 4em;
+}
+
+.nav-row{
+  list-style: none;
+}
+main{
+  background-color: #EFEEE1;
+}
+h2{
+  background-color: #EFEEE1;
+
+}
